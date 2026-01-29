@@ -15,6 +15,11 @@ which customers contribute the most value.
 
 ![Top 10 Customers by Revenue](screenshots/top_10_customers_by_revenue.png)
 
+### 🔍 Key Insights
+- A small group of customers contributes a disproportionate share of total revenue.
+- High-value customers are distributed across multiple countries, indicating global revenue concentration.
+- Retaining top-spending customers should be a priority due to their outsized impact on overall sales.
+
 ---
 
 ## 🎯 Business Objectives
