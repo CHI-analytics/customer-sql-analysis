@@ -8,6 +8,15 @@ The goal of this project is to demonstrate practical SQL skills for business ana
 
 ---
 
+## 📊 SQL Analysis – Top Customers by Revenue
+
+The following query identifies the **top 10 customers by total revenue**, helping the business understand
+which customers contribute the most value.
+
+![Top 10 Customers by Revenue](screenshots/top_10_customers_by_revenue.png)
+
+---
+
 ## 🎯 Business Objectives
 - Understand customer distribution across countries
 - Identify top revenue-generating customers
